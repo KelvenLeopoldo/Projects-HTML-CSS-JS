@@ -28,7 +28,7 @@ body{
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: flex 0.8s ease-in;
+    transition: flex 0.5s ease-out;
 }
 .panel h3{
     position: absolute;
